@@ -1,0 +1,7 @@
+{
+  "name": "IndySecure Auto-Reporter",
+  "description": "A deterministic, regex-driven security incident reporting system tailored for Indianapolis venues. Features live logic parsing, automated report formatting, and local audit logging.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
